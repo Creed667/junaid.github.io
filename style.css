@@ -15,6 +15,7 @@ body {
     background: url("img/akin-cakiner-nkUFXi0JSX8-unsplash.jpg") fixed;
     background-size: cover;
     background-position: center;
+    opcity: 0.5;
 
 }
 #header{
